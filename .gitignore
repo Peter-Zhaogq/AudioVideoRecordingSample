@@ -68,3 +68,4 @@ build
 profiles_settings.xml
 .idea/libraries
 .idea/caches
+app/*.DS_Store
